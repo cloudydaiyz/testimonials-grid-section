@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-m0RCLOw5Y0)
-- Live Site URL: [My live site URL](https://github.cloudydaiyz.com/webdev-learning-center/02-web-dev-bootcamp/testimonials-grid-section)
+- Solution URL: [My solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-5A6qt8E3CZ)
+- Live Site URL: [My live site URL](http://github.cloudydaiyz.com/testimonials-grid-section/)
 
 ## My process
 
